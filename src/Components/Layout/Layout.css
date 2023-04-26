@@ -1,0 +1,11 @@
+.bg{
+    background: #0a0d56;
+    padding: 40px 0;
+}
+
+.bg-section {
+    background: #e0e0e0;
+    width: 100%;
+    height: calc(100vh - 110px);
+    padding: 15px;
+}
